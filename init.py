@@ -1,0 +1,1 @@
+import this #Sen de Python
