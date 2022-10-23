@@ -1,1 +1,1 @@
-import this #Sen de Python
+import this #Zen de Python

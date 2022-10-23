@@ -24,4 +24,6 @@ import this #Sen de Python
 - Although never is often better than *right* now.
 - If the implementation is hard to explain, it's a bad idea.
 - If the implementation is easy to explain, it may be a good idea.     
-- Namespaces are one honking great idea -- let's do more of those! 
+- Namespaces are one honking great idea -- let's do more of those!
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
