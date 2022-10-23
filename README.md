@@ -3,7 +3,7 @@
 ### Ejercios de practica en Python
 Conjunto de ejercicios simples de **Python**
 ~~~
-import this #Sen de Python
+import this #Zen de Python
 ~~~
 
 - Beautiful is better than ugly.

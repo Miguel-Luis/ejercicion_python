@@ -40,3 +40,12 @@ print(list(zip(names, ages)))
 new_dict = {name: age for (name, age) in zip(names, ages)}
 print(new_dict)
 # -----------------------------------------------------------------------------------------------
+
+# -------------------- Condicionales -------------------------
+result = { country: population for (country, population) in population_v2.items() if population > 20}
+print(result)
+
+text = 'Hola, soy Nicolas'
+unique = {c: c.upper() for c in text if c in 'aeiou'}
+print(unique)
+# ------------------------------------------------------------
