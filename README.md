@@ -1,2 +1,7 @@
-# ejercicion_python
-Conjunto de ejercicios simples de python
+## ejercicion_python
+
+### Ejercios de practica en Python
+Conjunto de ejercicios simples de **Python**
+~~~
+import this #Sen de Python
+~~~
